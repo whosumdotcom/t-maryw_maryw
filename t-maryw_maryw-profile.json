@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-13T03:45:23Z",
+  "IdClaims": [
+    {
+      "Claim": "t:maryw_maryw"
+    },
+    {
+      "Claim": "gh:maryw-maryw"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "a898cae7a94231b20fdfb20b",
+    "Timestamp": "2023-04-13T03:57:21Z",
+    "Signature": "88326b4716f07178828129daf2f86683a13b6d5369adfb57c7ff61950a416294316b8d3fabf9be433e880998972f6ac0bd280ebb78fb9a4bcc6dd7fb81f94afc5983fea37288ed86f969c0d18c12d0251e69b5e0a2b33a7142013a61e6df329147540ec7022c7a671de4a8c2d35c83e9d51a357afabfb2e156438c8433df496e134eee5cd301e5f194e39c7e0307461eed0b34375a054eec29a8675430b3720931098bdb86333e1b1b5e57cf74d0f232eed43b27f92c939d16cf5fa50804fa96cc2be10378bf557900faeb9b818d69fcd05308cf7a6c3af1559e48d5d9f4f56939dab069abeaf19098fe7167826f591c37299f1bd79b65d08e0af22901d8c582"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "78d206a0bda8c0939f48eabfc322acac7983fb3cdc55ef0272f7f4b85fa66b1f",
+  "ContentToHash": "v1|gh:maryw-maryw,t:maryw_maryw|2023-04-13T03:45:23Z"
+}
